@@ -8,7 +8,7 @@ if(calc == H){
 }
 if (calc == M){var res = T*(655 + [(9,6 * P) + (1,8 * A ) - (4,7* I)])}
 
-document.calcform.res.value = res;
+document.calcform.res.value = re;
 }
 
 
