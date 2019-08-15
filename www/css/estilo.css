@@ -1,0 +1,68 @@
+.btnErrado{
+  margin-top: 15px; 
+}
+label{
+  font-size: 20px;
+  color:white;
+}
+.texto{
+    background-color: black;
+    color:white;
+}
+body{
+    background-color: black;
+}
+.result{
+    width: 380px;
+    height: 50px;
+}
+h2{
+  color:white;
+  text-align: center;
+  font-size: 25px;
+}
+
+
+.btnF{
+  background-color: black;
+  color: white;
+  border: 2px solid #FF00FF;
+}
+.btnH{
+  background-color: black;
+  color: white;
+  border: 2px solid #4169E1;
+}
+
+
+.btnS{
+  background-color: black;
+  color: white;
+  border: 2px solid #FF0000;
+}
+.btnLA{
+  background-color: black;
+  color: white;
+  border: 2px solid #FF4500;
+}
+.btnMA{
+  background-color: black;
+  color: white;
+  border: 2px solid #FFD700;
+}
+.btnAA{
+  background-color: black;
+  color: white;
+  border: 2px solid #00FF00;
+}
+.btnEA{
+  background-color: black;
+  color: white;
+  border: 2px solid 	#00FF00;
+}
+
+.btnCalc{
+  background-color: black;
+  color: white;
+  border: 2px solid 	#00FFFF;
+}
